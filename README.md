@@ -4,4 +4,4 @@ A shopping cart that automatically counts the amount. The styling is implemented
 
 ## Link
 
-https://sharaendy.github.io/react_goodsPriceCounter_01/
+https://cartcounter.surge.sh/
